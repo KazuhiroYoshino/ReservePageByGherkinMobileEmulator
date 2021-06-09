@@ -1,0 +1,2 @@
+# ReservePageByGherkinMobileEmulator
+## ReservePageをChromeのMobile EmulatorモードでGherkin記述したテストケースを用いた自動テスト
